@@ -1,0 +1,3 @@
+void desempilha (Pilha *p){
+	
+}
